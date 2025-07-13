@@ -1,0 +1,17 @@
+com/example/taskmanagement/service/TaskService.class
+com/example/taskmanagement/controller/GlobalExceptionHandler$ErrorResponse.class
+com/example/taskmanagement/service/TaskService$TaskNotFoundException.class
+com/example/taskmanagement/config/DataLoader.class
+com/example/taskmanagement/TaskManagementApiApplication.class
+com/example/taskmanagement/entity/Task$Status.class
+com/example/taskmanagement/model/Task$TaskStatus.class
+com/example/taskmanagement/controller/TaskController.class
+com/example/taskmanagement/entity/Task.class
+com/example/taskmanagement/model/Task.class
+com/example/taskmanagement/entity/Task$Priority.class
+com/example/taskmanagement/model/Task$TaskPriority.class
+com/example/taskmanagement/config/OpenApiConfig.class
+com/example/taskmanagement/controller/GlobalExceptionHandler$ErrorResponse$ErrorResponseBuilder.class
+com/example/taskmanagement/repository/TaskRepository.class
+com/example/taskmanagement/TaskManagementApplication.class
+com/example/taskmanagement/controller/GlobalExceptionHandler.class
